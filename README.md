@@ -4,7 +4,7 @@
 # ihatemicrosoftword
 
 
-![name-of-you-image](https://your-copied-image-address)
+![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true)
 
 <h3 align="center">
 *replaces all docx files with pdfs upon system startup*
