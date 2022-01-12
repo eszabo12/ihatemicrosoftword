@@ -24,4 +24,5 @@ Requirements:
 <li>Python3</li>
 <li>MacOS</li>
 <li>privelege to execute script.sh</li>
+<li>a hatred for docx files</li>
 </ol>
