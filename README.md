@@ -3,10 +3,10 @@
 
 # ihatemicrosoftword
 
-
-<img  src=”https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png" width=”200" height="100"/>
 <!-- 
-![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true) -->
+<img  src=”https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png" width=”200" height="100"/> -->
+
+![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true)
 
 <h3 align="center">
 *replaces all docx files with pdfs upon system startup*
