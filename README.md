@@ -12,8 +12,8 @@ Because anyone who doesn't use Windows shouldn't ever have to open a docx file, 
 <h2 align="center">
 Requirements:
 </h2>
-<ul>
-<li>MacOS</li>
+<ol>
 <li>Python3</li>
+<li>MacOS</li>
 <li>privelege to execute script.sh</li>
-</ul>
+</ol>
