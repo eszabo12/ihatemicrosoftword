@@ -1,4 +1,10 @@
+
+
+
 # ihatemicrosoftword
+
+
+![name-of-you-image](https://your-copied-image-address)
 
 <h3 align="center">
 *replaces all docx files with pdfs upon system startup*
