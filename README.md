@@ -4,7 +4,11 @@
 # ihatemicrosoftword
 
 
-![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true)
+<p align=”center”>
+<img width=”200" src=”https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true" alt=”my banner”>
+</p>
+<!-- 
+![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true) -->
 
 <h3 align="center">
 *replaces all docx files with pdfs upon system startup*
