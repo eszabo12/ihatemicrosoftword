@@ -4,7 +4,7 @@
 # ihatemicrosoftword
 
 
-<img width=”200" height="100" src=”https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png" alt=”my banner”>
+<img  src=”https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png" width=”200" height="100"/>
 <!-- 
 ![vom](https://github.com/eszabo12/ihatemicrosoftword/blob/main/images/banner.png?raw=true) -->
 
