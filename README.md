@@ -30,6 +30,6 @@ Requirements:
 <h3 align="center">
 Usage:
 </h3>
-```
+```bash
 sudo chmod +x script.sh
 ```
