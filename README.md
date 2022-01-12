@@ -31,4 +31,5 @@ Requirements:
 Usage:
 </h3>
 sudo chmod +x script.sh
+
 ./script.sh
