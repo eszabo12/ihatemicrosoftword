@@ -26,3 +26,10 @@ Requirements:
 <li>privelege to execute script.sh</li>
 <li>a hatred for docx files</li>
 </ol>
+
+<h3 align="center">
+Usage:
+</h3>
+```
+sudo chmod +x script.sh
+```
